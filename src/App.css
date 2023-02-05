@@ -2,8 +2,8 @@
 
 .App {
   text-align: center;
-  font-family: "Lato";
-  background-color: #16324F;
+  font-family: 'Lato';
+  background-color: #16324f;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -22,7 +22,7 @@ li {
   list-style: none;
   border-radius: 15px;
   width: 60vw;
-  background-color: #2A628F;
+  background-color: #2a628f;
   margin-bottom: 25px;
   padding: 30px;
   text-align: left;
@@ -34,7 +34,7 @@ img {
 }
 
 h3 span {
-  color: #3E92CC;
+  color: #3e92cc;
   font-size: calc(10px + 1vmin);
 }
 
@@ -45,11 +45,11 @@ h3 span {
 }
 
 .description {
-  font-size: calc(10px + .7vmin);
+  font-size: calc(10px + 0.7vmin);
 }
 
 .description span {
-  color: #3E92CC;
+  color: #3e92cc;
 }
 
 .heart {
